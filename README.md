@@ -31,3 +31,11 @@ streamlit run CIFAR_10_Deploy.py
 ```
 
 Opens at: **http://localhost:8501**
+------------------------------------------------------------------------
+
+### Streamlit Hosted
+
+Open in browser:
+**https://aimanosama-cifar-10-classification.streamlit.app/**
+
+------------------------------------------------------------------------
